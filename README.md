@@ -1,2 +1,16 @@
+![a1](https://user-images.githubusercontent.com/107319883/176698492-3be3fe79-a723-4ba4-872d-797869610f3d.png)
+![a2](https://user-images.githubusercontent.com/107319883/176698515-59f533ce-1f62-4843-aac0-aac718106c8c.png)
+![a3](https://user-images.githubusercontent.com/107319883/176698521-f605d0a5-b00f-44cc-8f4a-d24f39922350.png)
+![a4](https://user-images.githubusercontent.com/107319883/176698526-b0ea3c2b-b5d2-4fd4-b2b8-45b701e08823.png)
+![a5](https://user-images.githubusercontent.com/107319883/176698536-252f4395-b46f-4437-83dd-d090621fe601.png)
+![a6](https://user-images.githubusercontent.com/107319883/176698540-286d01c9-c1bf-43d6-9521-e659a4eb98eb.png)
+![a7](https://user-images.githubusercontent.com/107319883/176698545-fa95fa0e-e58e-415e-aa94-d06e764e962b.png)
+![a8](https://user-images.githubusercontent.com/107319883/176698551-a166b368-21be-4a70-a5b3-ee00deff7f0f.png)
+![a9](https://user-images.githubusercontent.com/107319883/176698557-f13e2c43-3fcf-421a-801f-3b08b3e14d10.png)
+![a10](https://user-images.githubusercontent.com/107319883/176698562-600a8309-fc0c-43eb-80bb-d67b04d83be1.png)
+![a11](https://user-images.githubusercontent.com/107319883/176698569-481c84cd-2966-4373-9226-e9f61955d3f5.png)
+![a12](https://user-images.githubusercontent.com/107319883/176698573-12c5a1d7-d6c4-495d-9945-261b7468c41d.png)
+![a13](https://user-images.githubusercontent.com/107319883/176698577-aeb4045f-d799-4ed5-859f-f2ae840d85d7.png)
+![a14](https://user-images.githubusercontent.com/107319883/176698585-bf849eef-6135-4d33-9dca-24330552cefe.png)
 # Integrated-software-for-image-processing
 Using MATLAB.
